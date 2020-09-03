@@ -113,7 +113,7 @@ for i in range(len(true_data)):
     except :
         pass
 
-#print("Finished Checkpoint one - Data transformation")
+#print("Finished Checkpoint one - Data transformation, good job")
 
 
 
